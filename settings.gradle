@@ -1,0 +1,2 @@
+rootProject.name = "phpwithdatabase"
+include ':app'
